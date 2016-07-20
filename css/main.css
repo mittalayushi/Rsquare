@@ -1,0 +1,19 @@
+.features .glyphicon {
+	font-size: 32px;
+	color: red;
+}
+.footer {
+	background-color: grey;
+	color: white;
+}
+.footer h3{
+	color: blue;
+}
+.navbar {
+	background-color:rgb(176,196,222);
+	color: white;
+}
+
+.nav li{
+	color: black;
+}
